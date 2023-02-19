@@ -11,7 +11,7 @@ Summary
 
 This tool allows you filter duplicate domains from the list of URLs in the file.
 I created this application for SEO experts who struggle to remove duplicate URLs from huge files.
-I hope this tool will be very helpful for those who use `GSA SER list <https://www.gsaserlist.net/>`
+I hope this tool will be very helpful for those who use  `GSA SER list <https://www.gsaserlist.net/>`__
 
 
 .. index:: Compatability
