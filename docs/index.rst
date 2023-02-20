@@ -27,3 +27,14 @@ It is a download-and-run program with no changes to the file.You will just have 
 Installation
 ============
 The program doesn't require any additional packages to run. You only need to add the corresponding input and output files.
+
+
+About Me
+========
+I'm a web developer who has built many free online tools such as `yt mp3 <https://ytmp3.page/>`__
+I find the most demanding tools online and build them from scratch. There are many tools available, but most of them spread viruses through ads. So, I created
+tools and allow users access them for safely.
+
+If you like my tools, please give me a thumbs up on my GitHub page. Thank you.
+
+If you like my tools, please give me thumbs up on my github page. Thank you.
